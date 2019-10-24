@@ -21,7 +21,7 @@ Getting Started
 -----
 To accomodate the transition of new cohorts into the program, we're establishing weekly and monthly meetings to share our knowledge and lessons learned from the book, online materials, and each other. Links to the book and the course are online. 
 
-Also check out our [one-stop shop](docs/One-stop Shop.md) containing more information on AI/ML/Deep Learning. 
+Also check out our [one-stop shop](docs/fuzzy-minds/One-stop Shop.md) containing more information on AI/ML/Deep Learning. 
 
 Meetings
 -----
