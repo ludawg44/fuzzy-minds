@@ -18,8 +18,10 @@ Organized links that have been shared with the group on Slack
 
 ## What is Deep Learning? 
 - [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+- [What is the difference between Artificial Intelligence, Machine Learning, and Deep Learning](https://medium.com/@juniormiranda_23768/what-is-the-difference-between-artificial-intelligence-machine-learning-and-deep-learning-71ec27ea5a2a)
+- [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 
-## What is Machine Learning
+## What is Machine Learning?
 - [Learning Machine Learning - An online comic from Google AI Part 1](https://cloud.google.com/products/ai/ml-comic-1/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 
 ## Infographics/PDFs
