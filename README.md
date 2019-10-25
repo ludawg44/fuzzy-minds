@@ -60,7 +60,7 @@ Roadmap
 -----
 
 | Month     | Week      | Work           | 
-| :---:     | :---:     | :---           |
+| :---:     | :---:     | -------------    |
 | Month 1   | Week 1    | [YouTube video 1](https://www.youtube.com/watch?v=aircAruvnKk) & [YouTube video 2](https://www.youtube.com/watch?v=6M5VXKLf4D4) |
 |    | Week 2    | Chapter 1 from “Hands-On Machine Learning with Scikit-Learn & TensorFlow” (Please do the exercises mentioned at the end of the Chapter too) |
 |   | Week 3 & 4    | Chapter 2 from “Hands-On Machine Learning with Scikit-Learn & TensorFlow” (Please do the exercises mentioned at the end of the Chapter too) |
