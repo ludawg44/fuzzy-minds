@@ -62,7 +62,7 @@ Pending
 
 Meeting Minutes
 -----
-1. [October 19, 2019](fuzzy-minds/01_Unit-01_19Oct19.pdf)
+1. [October 19, 2019](01_Unit-01_19Oct19.pdf)
 
 Contributing
 -----
