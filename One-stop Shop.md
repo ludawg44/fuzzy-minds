@@ -36,7 +36,7 @@ Organized links that have been shared with the group on Slack
 - [DeepLearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
 
 ## Bloggers
-- Pending
+- [Chris Albon](https://chrisalbon.com/)
 
 ## Twitter Accounts
 - Pending
