@@ -25,7 +25,7 @@ Organized links that have been shared with the group on Slack
 - [Learning Machine Learning - An online comic from Google AI Part 1](https://cloud.google.com/products/ai/ml-comic-1/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 
 ## Infographics/PDFs
-- [The Deep Learning Algorithms Interview](DL Algorithms Interview - Workera.pdf)
+- [The Deep Learning Algorithms Interview](https://github.com/ludawg44/fuzzy-minds/blob/master/DL%20Algorithms%20Interview%20-%20Workera.pdf)
 
 ## Books
 - [Deep Learning (Adaptive Computation and Machine Learning Series](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book)
