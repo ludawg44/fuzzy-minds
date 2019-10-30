@@ -50,7 +50,7 @@ Organized links that have been shared with the group on Slack
 - Pending
 
 ## Presentations
-- Pending
+- [Better than Deep Learning: Gradient Boosting Machines (GBM)](https://www.youtube.com/watch?v=9GCEVv94udY) - For structured/tabular data (mostly encountered in business applications) GBMs will beat Deep Learning. If you have image, speech, text, than Deep Learning is best. 
 
 ## Journals/Papers
 - Pending
