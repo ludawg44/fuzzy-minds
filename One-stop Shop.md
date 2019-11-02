@@ -51,6 +51,7 @@ Organized links that have been shared with the group on Slack
 
 ## Presentations
 - [Better than Deep Learning: Gradient Boosting Machines (GBM)](https://www.youtube.com/watch?v=9GCEVv94udY) - For structured/tabular data (mostly encountered in business applications) GBMs will beat Deep Learning. If you have image, speech, text, than Deep Learning is best. 
+- [Allen's Institute for Artificial Intelligence - What's Machine Learning](https://github.com/ludawg44/fuzzy-minds/blob/master/What%20is%20machine%20learning_.pdf)
 
 ## Journals/Papers
 - Pending
