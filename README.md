@@ -48,6 +48,8 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 - Dive into neural net architectures, including convolutional nets, recurrent nets, and deep reinforcement learning
 - Learn techniques for training and scaling deep neural nets
 
+Changes made to the [second edition](https://github.com/ageron/handson-ml2/blob/master/changes_in_2nd_edition.md). 
+
 Online Course
 -----
 ![alt text](https://cs.stanford.edu/sites/all/themes/stanford_wilbur/logo.png)
