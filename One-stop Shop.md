@@ -64,3 +64,6 @@ Organized links that have been shared with the group on Slack
 - [Workera](https://workera.ai/candidates/)
 - [Top Deep Learning Github Repos](https://github.com/mbadry1/Top-Deep-Learning)
 - [Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) - Mandarin/English version
+- [Improving Language Understanding with Unsupervised Learning](https://openai.com/blog/language-unsupervised/)
+- [A Smooth Approach to Putting ML into Production](https://maxhalford.github.io/blog/a-smooth-approach-to-putting-machine-learning-into-production/)
+- [ImageNet - Wiki](https://en.wikipedia.org/wiki/ImageNet)
