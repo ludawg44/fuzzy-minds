@@ -54,7 +54,7 @@ Organized links that have been shared with the group on Slack
 - [Allen's Institute for Artificial Intelligence - What's Machine Learning](https://github.com/ludawg44/fuzzy-minds/blob/master/What%20is%20machine%20learning_.pdf)
 
 ## Journals/Papers
-- Pending
+- [Reddit's ML thread, asking people what papers they're reading](https://www.reddit.com/r/MachineLearning/comments/dr6nca/d_machine_learning_wayr_what_are_you_reading_week/?%24deep_link=true&correlation_id=e83f9a66-d4f4-4115-826d-39b08adededa&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&utm_medium=digest&utm_name=top_posts&utm_source=email&utm_term=day&%243p=e_as&%24original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2Fdr6nca%2Fd_machine_learning_wayr_what_are_you_reading_week%2F%3F%24deep_link%3Dtrue%26correlation_id%3De83f9a66-d4f4-4115-826d-39b08adededa%26ref%3Demail_digest%26ref_campaign%3Demail_digest%26ref_source%3Demail%26utm_content%3Dpost_title%26utm_medium%3Ddigest%26utm_name%3Dtop_posts%26utm_source%3Demail%26utm_term%3Dday&_branch_match_id=615267511017367956)
 
 ## Tutorials
 - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
