@@ -10,7 +10,7 @@ Organized links that have been shared with the group on Slack
 - Bloggers
 - Twitter Accounts
 - YouTube Accounts
-- Toolboxes
+- Tools
 - Presentations
 - Journals/Papers
 - Tutorials
@@ -46,8 +46,8 @@ Organized links that have been shared with the group on Slack
 ## YouTube Accounts
 - [3Blue1Bron's](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [But what is a Neaural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
-## Toolboxes
-- Pending
+## Tools
+- [Explained Visually](http://setosa.io/ev/)
 
 ## Presentations
 - [Better than Deep Learning: Gradient Boosting Machines (GBM)](https://www.youtube.com/watch?v=9GCEVv94udY) - For structured/tabular data (mostly encountered in business applications) GBMs will beat Deep Learning. If you have image, speech, text, than Deep Learning is best. 
