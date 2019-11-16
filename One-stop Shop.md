@@ -48,6 +48,7 @@ Organized links that have been shared with the group on Slack
 
 ## YouTube Accounts
 - [3Blue1Bron's](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [But what is a Neaural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+- From DSP class, TA provided this [link](https://www.youtube.com/playlist?list=PLVZqlMpoM6kaJX_2lLKjEhWI0NlqHfqzp)
 
 ## Tools
 - [Explained Visually](http://setosa.io/ev/)
