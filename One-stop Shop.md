@@ -20,9 +20,11 @@ Organized links that have been shared with the group on Slack
 - [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
 - [What is the difference between Artificial Intelligence, Machine Learning, and Deep Learning](https://medium.com/@juniormiranda_23768/what-is-the-difference-between-artificial-intelligence-machine-learning-and-deep-learning-71ec27ea5a2a)
 - [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- Yet another [What is Deep Learning and How Does it Work](https://towardsdatascience.com/what-is-deep-learning-and-how-does-it-work-f7d02aa9d477) article on Medium
 
 ## What is Machine Learning?
 - [Learning Machine Learning - An online comic from Google AI Part 1](https://cloud.google.com/products/ai/ml-comic-1/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+- Adesh Pande has a great GitHub repo on ML [here](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned) and can also be found on his blog. 
 
 ## Infographics/PDFs
 - [The Deep Learning Algorithms Interview](https://github.com/ludawg44/fuzzy-minds/blob/master/DL%20Algorithms%20Interview%20-%20Workera.pdf)
@@ -68,4 +70,4 @@ Organized links that have been shared with the group on Slack
 - [Improving Language Understanding with Unsupervised Learning](https://openai.com/blog/language-unsupervised/)
 - [A Smooth Approach to Putting ML into Production](https://maxhalford.github.io/blog/a-smooth-approach-to-putting-machine-learning-into-production/)
 - [ImageNet - Wiki](https://en.wikipedia.org/wiki/ImageNet)
-- Yet another [What is Deep Learning and How Does it Work](https://towardsdatascience.com/what-is-deep-learning-and-how-does-it-work-f7d02aa9d477) article on Medium
+
