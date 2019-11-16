@@ -68,3 +68,4 @@ Organized links that have been shared with the group on Slack
 - [Improving Language Understanding with Unsupervised Learning](https://openai.com/blog/language-unsupervised/)
 - [A Smooth Approach to Putting ML into Production](https://maxhalford.github.io/blog/a-smooth-approach-to-putting-machine-learning-into-production/)
 - [ImageNet - Wiki](https://en.wikipedia.org/wiki/ImageNet)
+- Yet another [What is Deep Learning and How Does it Work](https://towardsdatascience.com/what-is-deep-learning-and-how-does-it-work-f7d02aa9d477) article on Medium
