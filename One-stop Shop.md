@@ -42,6 +42,7 @@ Organized links that have been shared with the group on Slack
 ## Bloggers
 - [Chris Albon](https://chrisalbon.com/)
 - [Adesh Pande](https://adeshpande3.github.io/adeshpande3.github.io/)
+- [Sebastian Ruder](http://newsletter.ruder.io/)
 
 ## Twitter Accounts
 - Pending
