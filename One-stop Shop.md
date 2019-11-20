@@ -64,6 +64,7 @@ Organized links that have been shared with the group on Slack
 
 ## Tutorials
 - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Google's ML Fairness Overview](https://developers.google.com/machine-learning/fairness-overview/)
 
 ## Other Links
 - [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
