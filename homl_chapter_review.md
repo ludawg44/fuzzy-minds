@@ -14,29 +14,10 @@ A quick review of the subject and topics covered in each capter with links to he
 Classification Systems: (definition)
 
 You want to think about classification systems in two ways: binary classification & multiclass classification
-- Linear classifier algorithms
-  - Logistic regression
-  - Multinomial logistic regression
-  - Probit regression
-  - Perceptron algorithm
-  - Support vector machines
-  - Linear deiscrinanat analysis
-- Unsupervised & supervised learning toolkit
-  - Linear classifiers
-    - Fisher's linear discrinant
-    - Logistic regression
-    - Naive Bayes classifier
-    - Perceptron
-  - Support vector machine
-    - least squares support vector machines
-  - Quadratic classifiers
-  - Kernel estimation
-    - k-nearest neighbor
-  - Boosting (meta-algorithm)
-  - Decision trees
-    - Random forests
-  - Neural networks
-  - Learning vector quantization
+
+Linear classifier algorithms: refer to wikipedia
+
+For unsupervised, supervised & semi-supervised learning algorithms: refer to wikipedia
 
 How does this relate to deep learning? 
 - Deep learning uses binary and muliclass classificaitons in their input and hidden layers
