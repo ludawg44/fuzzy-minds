@@ -138,14 +138,14 @@ Measuring functions:
 - Understaing the mathematics behinds [Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
 
 
-### **Links**:
+### **LINKS**:
 - Wikipedia's page on [classification systems](https://en.wikipedia.org/wiki/Statistical_classification)
 - Wikipedia's page on [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
 
-### **Blogs**:
+### **BLOGS**:
 - I found this blog by [Jack Mcknew](https://jmckew.com/2019/10/18/hands-on-machine-learning-chapter-3/) on chapter 3. It's a quick read. 
 
-### **Data**:
+### **DATASETS**:
 - The MNIST dataset has been the introductory dataset for a classification for some time now. As the models have gotten more
 sophisticaed, the optimization levels have been identical in both Deep Learning and using more simple Machine Learning models.
 Thus the creation of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist). 
