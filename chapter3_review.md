@@ -2,12 +2,14 @@
 A quick review of the subject and topics covered in each capter with links to help solidify the material. 
 
 ## Chapter 3
-**SUMMARY**: This chapter focuses on classification systems and how to evaluate them. One common way to evaluate a classification system is to use a confusion matrix. He integrates the precsion, recall tradeoff. He does this for a binary classifier and then multiclass classification.
+**SUMMARY**: This chapter focuses on **classification systems** and how to **evaluate them**. One common way to evaluate a classification system is to use a confusion matrix. Another method is the precsion score, the recall score, understanding the precision/recall tradeoff, and the ROC Curve. He does this for a binary classifier and then multiclass classification.
 
 1. MNIST 
-- Download and choose one digit for the binary classificaiton example
+- Use the built in dataset and choose one digit for the binary classification example
+- Display the image
+- Create a train and test set before inspecting any data. Put the test data aside until the very end.
 
-2. Training a Binary Classifer**
+2. Training a Binary Classifier**
 - 
 
 3. Performance Measures
@@ -19,7 +21,7 @@ A quick review of the subject and topics covered in each capter with links to he
 
 **Precision/Recall Trade-off**
 
-**The ROC Cruve**
+**The ROC Curve**
 
 4. Multiclass Classification
 
@@ -43,7 +45,10 @@ A quick review of the subject and topics covered in each capter with links to he
 
 **PYTHON**: 
 - fetch_openml in sklearn.dataset
-- mpl()
+- know how to separate train and test sets
+```
+X_train, y_train, X_test, y_test = ...
+```
 
 
 
