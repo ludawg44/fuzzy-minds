@@ -1,5 +1,5 @@
 # Fashion-MNIST without Deep Learning
-Because I'm a glutten for punishment, I wanted to analyze the Fashion-MNIST dataset just like Aurelien Geron's Hands-On Machine Learning, chapter 3. 
+Because I'm a glutton for punishment, I wanted to analyze the Fashion-MNIST dataset just like Aurelien Geron's Hands-On Machine Learning, chapter 3. 
 
 The Fashion-MNIST dataset is a built-in dataset in Pytorch, Keras, Tensorflow, etc., but I want to implement the tools used in the book. Chapter 3 doesn't go over any of these libraries. 
 
