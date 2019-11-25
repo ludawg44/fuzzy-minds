@@ -9,19 +9,37 @@ A quick review of the subject and topics covered in each capter with links to he
 - Display the image
 - Create a train and test set before inspecting any data. Put the test data aside until the very end.
 
-2. Training a Binary Classifier**
-- 
+2. Training a Binary Classifier
+- The first model he covers in this chapter is the Stochastic Gradient Descent. For a review, check the Maths section below.
+- Learn this by heart:
+```
+from sklearn.linear_model import SGDClassifier
+
+# TRAIN
+# 'random_state' let's you reproduce your results. y_train_5 is using a binary classifer
+sgd_clf = SGDClassifier(random_state=42)
+sgd_clf.fit(X_train, y_train_5)
+
+# PREDICT
+# This takes the first 
+sgd_clf.predict([take a digit from the set and create a variable to test])
+```
 
 3. Performance Measures
-**Measuring Accuracy Using Cross-Validation**
+  **Measuring Accuracy Using Cross-Validation**
+"A good way to evaluate a model is to use cross-validation." There is a long way, which definitely serve's its purpose or a short way.
+Let's explore the short way:
+```
+from sklearn.model_selection import cross_val_score
+cross_val_score(sgd_clf, X_train, y_train_5, cv=3, scoring="accuracy")
+```
+  **Confusion Matrix**
 
-**Confusion Matrix**
+  **Precision and Reacll**
 
-**Precision and Reacll**
+  **Precision/Recall Trade-off**
 
-**Precision/Recall Trade-off**
-
-**The ROC Curve**
+  **The ROC Curve**
 
 4. Multiclass Classification
 
@@ -45,11 +63,11 @@ A quick review of the subject and topics covered in each capter with links to he
 
 **PYTHON**: 
 - fetch_openml in sklearn.dataset
-- know how to separate train and test sets
-```
-X_train, y_train, X_test, y_test = ...
-```
-
+- know how to separate train and test sets. Usually in this format:
+  ```
+  X_train, y_train, X_test, y_test = ...
+  ```
+- 
 
 
 **MATHS**:
