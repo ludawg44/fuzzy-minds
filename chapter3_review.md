@@ -105,9 +105,9 @@ roc_auc_score(y_train_5, y_scores_forest)
 
 8. Exercises
 
+___
 
-
-**STATISTICS**: 
+### **STATISTICS**: 
 - Classification Systems: (definition)
 - You want to think about classification systems in two ways: binary classification & multiclass classification
 - Linear classifier algorithms: refer to wikipedia
@@ -115,7 +115,7 @@ roc_auc_score(y_train_5, y_scores_forest)
 - How does this relate to deep learning? 
   - Deep learning uses binary and multiclass classificaitons in their input and hidden layers
 
-**PYTHON**: 
+### **PYTHON**: 
 SciKit-Learn
 - fetch_openml
 - know how to separate train and test sets. Usually in this format:
@@ -134,18 +134,18 @@ Measuring functions:
 - recall_score
 
 
-**MATHS**:
+### **MATHS**:
 - Understaing the mathematics behinds [Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
 
 
-Links
+### **Links**:
 - Wikipedia's page on [classification systems](https://en.wikipedia.org/wiki/Statistical_classification)
 - Wikipedia's page on [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
 
-Blogs
+### **Blogs**:
 - I found this blog by [Jack Mcknew](https://jmckew.com/2019/10/18/hands-on-machine-learning-chapter-3/) on chapter 3. It's a quick read. 
 
-Data
+### **Data**:
 - The MNIST dataset has been the introductory dataset for a classification for some time now. As the models have gotten more
 sophisticaed, the optimization levels have been identical in both Deep Learning and using more simple Machine Learning models.
 Thus the creation of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist). 
