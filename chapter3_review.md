@@ -55,12 +55,46 @@ recall_score(y_train_5, y_train_pred)
 
   **Precision/Recall Trade-off**
 - Increasing precision reduces recall & increasing recall reduces precision. You can't have it both ways.
-- To understand the tradeoff, you have to realize how the SGDClassifier function makes a classification decision. In scikit-learn, each instances gets a score based on the decision function. That score, from the decision function, is compared to a threshold. If it is above the threshold, it'll be a positive class. It's its below, it gets put in a negative class. 
+- To understand the tradeoff, you have to realize how the SGDClassifier function makes a classification decision. In scikit-learn, each instances gets a score based on the decision function. That score, from the decision function, is compared to a threshold. If it is above the threshold, it'll be a positive class. It's its below, it gets put in a negative class. SGDClassifier has a threshold of 0.
 - Sci-kit Learn doesn't allow you to change the decision function, but it allows you to change the threshold. There is a lot going on here, so review on your own. 
 ```
-
+threshold = 8000
+y_some_digit_pred = (y_scores > threshold)
+# Print it out
+y_some_digit_pred
+```
+- Why use 8,000 in the book? You can figure out by using another function that we used, just change the parameter
+```
+y_scores = cross_val_predict(sgd_clf, X_train, y_train_5, csv=3, method='decision_function")
+```
+- Now you can use the precision_recall_curve function to find all possible thresholds and graph it. But I won't go over that here, refer to book's Github account
 
   **The ROC Curve**
+- This is an exciting chapter because not only to get to graph more performance measurements covered in HBAP, but we're going to compare the SGDClassifier with another one!
+- To plot the ROC curve, you need the TPR and FPR values for the various thresholds. You have the threshold from up above. 
+```
+from sklearn.metrics import roc_curve
+fpr, tpr, thresholds = roc_curve(y_train_5, y_scores)
+```
+- I won't be going over plotting the graphs here. But let's get the ROC AUC score now:
+```
+from sklearn.metrics import roc_auc_score
+roc_auc_score(y_train_5, y_scores)
+```
+- WOOT WOOT! We're going to compare two classifers now! I'm just going to provide the basic code to get a score. Refer to the author's GitHub account if you want to see a demonstration on how to graph it. 
+```
+from sklearn.ensemble import RandomForestClassifier
+
+forest_clf = RandomForestClassifier(random_state=42)
+y_probas_forest = cross_val_predict(forest_clf, X_train, y_train_5, cv=3, method="predict_proba")
+
+# "The roc_curve() function expects labels and scores, but instead of scores you can give it class probabilities.
+y_scores_forest = y_probas_forest[:,1]
+fpr_forest, tpr_forest, thresholds_forest = roc_curve(y_train_5, y_scores_forest)
+
+# COMPARE ROC AUC SCORES
+roc_auc_score(y_train_5, y_scores_forest)
+```
 
 4. Multiclass Classification
 
@@ -83,12 +117,21 @@ recall_score(y_train_5, y_train_pred)
   - Deep learning uses binary and muliclass classificaitons in their input and hidden layers
 
 **PYTHON**: 
-- fetch_openml in sklearn.dataset
+SciKit-Learn
+- fetch_openml
 - know how to separate train and test sets. Usually in this format:
   ```
   X_train, y_train, X_test, y_test = ...
   ```
-- 
+Basic intuition: choose classifier model, get the function from scikit-learn, fit it, predict it
+- SGDClassifier
+
+Measuring functions:
+- cross_val_score
+- cross_val_predict
+- confusion_matrix
+- precision_score
+- recall_score
 
 
 **MATHS**:
