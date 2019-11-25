@@ -1,4 +1,4 @@
-#Chapter 3
+# Chapter 3
 
 **SUMMARY**: This chapter focuses on **classification systems** and how to **evaluate them**. One common way to evaluate a classification system is to use a confusion matrix. Another method is the precsion score, the recall score, understanding the precision/recall tradeoff, and the ROC Curve. The author does this for binary classifiers and then multiclass classifications.
 
