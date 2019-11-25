@@ -1,17 +1,15 @@
-# Hands On Machine Learning Chapter Overview
-A quick review of the subject and topics covered in each capter with links to help solidify the material. 
-
-## Chapter 3
-**SUMMARY**: This chapter focuses on **classification systems** and how to **evaluate them**. One common way to evaluate a classification system is to use a confusion matrix. Another method is the precsion score, the recall score, understanding the precision/recall tradeoff, and the ROC Curve. He does this for a binary classifier and then multiclass classification.
+#Chapter 3
+**SUMMARY**: This chapter focuses on **classification systems** and how to **evaluate them**. One common way to evaluate a classification system is to use a confusion matrix. Another method is the precsion score, the recall score, understanding the precision/recall tradeoff, and the ROC Curve. The author does this for binary classifiers and then multiclass classifications.
 
 1. MNIST 
 - Use the built in dataset and choose one digit for the binary classification example
 - Display the image
-- Create a train and test set before inspecting any data. Put the test data aside until the very end.
+- Create a "train" and "test" set before inspecting any data. Put the "test" data aside until the very end.
 
 2. Training a Binary Classifier
 - The first model he covers in this chapter is the Stochastic Gradient Descent. For a review, check the Maths section below.
-- Learn this by heart:
+- We put one image in the y_train_5 variable
+- Become familiar with this structure:
 ```
 from sklearn.linear_model import SGDClassifier
 
@@ -26,14 +24,14 @@ sgd_clf.predict([take a digit from the set and create a variable to test])
 ```
 3. Performance Measures
   **Measuring Accuracy Using Cross-Validation**
-"A good way to evaluate a model is to use cross-validation." There is a long way, which definitely serves its purpose or a short way.
+"A good way to evaluate a model is to use cross-validation." There is a long way, which definitely serves its purpose, and a short way.
 Let's explore the short way:
 ```
 from sklearn.model_selection import cross_val_score
 cross_val_score(sgd_clf, X_train, y_train_5, cv=3, scoring="accuracy")
 ```
   **Confusion Matrix**
-- Recall from the confusion matrix, the axises are labeled "Actual" and "Predicted"(refer to Wikipedia down below for reference). We have our actual digit from "y_train_5." In order to get our predicted numbers, you have run code like this:
+- In the confusion matrix, the axises are labeled "Actual" and "Predicted"(refer to Wikipedia down below for reference). We have our "actual" digit from "y_train_5." In order to get our "predicted" scores, you have run this code:
 ```
 from sklearn.model_selection import cross_val_predict
 y_train_pred = cross_val_predict(sgd_clf, X_train, y_train_5, cv=3)
@@ -44,8 +42,8 @@ from sklearn.metrics import confusion_matrix
 confusion_matrix(y_train_5, y_train_pred)
 ```
   **Precision and Recall**
-- Precision score of 75% means your model was only 75% of the time
-- Recall score of 68% means your model only detects 68% of the digits (images, clothes, faces, whatever you're classifing) that you selected
+- A precision score of 0.75 means your model was only 75% accurate
+- A recall score of 0.68 means your model only detects 68% of the digits (images, clothes, faces, whatever you're classifing) that you selected
 ```
 from sklearn.metrics import precision_score, recall_score
 precision_score(y_train_5, y_train_pred)
@@ -55,7 +53,7 @@ recall_score(y_train_5, y_train_pred)
 
   **Precision/Recall Trade-off**
 - Increasing precision reduces recall & increasing recall reduces precision. You can't have it both ways.
-- To understand the tradeoff, you have to realize how the SGDClassifier function makes a classification decision. In scikit-learn, each instances gets a score based on the decision function. That score, from the decision function, is compared to a threshold. If it is above the threshold, it'll be a positive class. It's its below, it gets put in a negative class. SGDClassifier has a threshold of 0.
+- To understand the tradeoff, you have to realize how the SGDClassifier() function makes a classification decision. In scikit-learn, each instance gets a score based on the decision function. That score, from the decision function, is compared to a threshold number. If it is above the threshold, it'll be a positive class. If its below, it gets put in a negative class. SGDClassifier in scikit-learn has a default threshold of 0.
 - Sci-kit Learn doesn't allow you to change the decision function, but it allows you to change the threshold. There is a lot going on here, so review on your own. 
 ```
 threshold = 8000
@@ -67,7 +65,7 @@ y_some_digit_pred
 ```
 y_scores = cross_val_predict(sgd_clf, X_train, y_train_5, csv=3, method='decision_function")
 ```
-- Now you can use the precision_recall_curve function to find all possible thresholds and graph it. But I won't go over that here, refer to book's Github account
+- Now you can use the precision_recall_curve() function to find all possible thresholds and graph it. But I won't go over that here, refer to book's Github account
 
   **The ROC Curve**
 - This is an exciting chapter because not only to get to graph more performance measurements covered in HBAP, but we're going to compare the SGDClassifier with another one!
@@ -81,7 +79,7 @@ fpr, tpr, thresholds = roc_curve(y_train_5, y_scores)
 from sklearn.metrics import roc_auc_score
 roc_auc_score(y_train_5, y_scores)
 ```
-- WOOT WOOT! We're going to compare two classifers now! I'm just going to provide the basic code to get a score. Refer to the author's GitHub account if you want to see a demonstration on how to graph it. 
+- WOOT WOOT! We're going to compare two classifers now! I'm just going to provide the basic code to get a score. Refer to the author's GitHub account if you want to see how to graph it. 
 ```
 from sklearn.ensemble import RandomForestClassifier
 
@@ -100,7 +98,7 @@ roc_auc_score(y_train_5, y_scores_forest)
 
 5. Error Analysis
 
-6. Multilable Classification
+6. Multilabel Classification
 
 7. Multioutput Classification
 
@@ -114,7 +112,7 @@ roc_auc_score(y_train_5, y_scores_forest)
 - Linear classifier algorithms: refer to wikipedia
 - For unsupervised, supervised & semi-supervised learning algorithms: refer to wikipedia
 - How does this relate to deep learning? 
-  - Deep learning uses binary and muliclass classificaitons in their input and hidden layers
+  - Deep learning uses binary and multiclass classificaitons in their input and hidden layers
 
 **PYTHON**: 
 SciKit-Learn
@@ -125,6 +123,7 @@ SciKit-Learn
   ```
 Basic intuition: choose classifier model, get the function from scikit-learn, fit it, predict it
 - SGDClassifier
+- RandomForestClassifier
 
 Measuring functions:
 - cross_val_score
@@ -149,5 +148,5 @@ Data
 - The MNIST dataset has been the introductory dataset for a classification for some time now. As the models have gotten more
 sophisticaed, the optimization levels have been identical in both Deep Learning and using more simple Machine Learning models.
 Thus the creation of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist). 
-
+- Someone work with me to classify this [dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
