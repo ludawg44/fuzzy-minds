@@ -26,6 +26,7 @@ sgd_clf.predict([take a digit from the set and create a variable to test])
 ```
 
 3. Performance Measures
+
   **Measuring Accuracy Using Cross-Validation**
 "A good way to evaluate a model is to use cross-validation." There is a long way, which definitely serve's its purpose or a short way.
 Let's explore the short way:
