@@ -35,10 +35,34 @@ from sklearn.model_selection import cross_val_score
 cross_val_score(sgd_clf, X_train, y_train_5, cv=3, scoring="accuracy")
 ```
   **Confusion Matrix**
+- Recall from the confusion matrix, the axises are labeled "Actual" and "Predicted"(refer to Wikipedia down below for reference). We have our actual digit from "y_train_5." In order to get our predicted numbers, you have run code like this:
+```
+from sklearn.model_selection import cross_val_predict
 
-  **Precision and Reacll**
+y_train_pred = cross_val_predict(sgd_clf, X_train, y_train_5, cv=3)
+```
+- Alright, we have both y_train_5 and y_train_pred. Let's run the confusion matrix
+```
+from sklearn.metrics import confusion_matrix
+
+confusion_matrix(y_train_5, y_train_pred)
+```
+
+  **Precision and Recall**
+
+- Precision score of 75% means your model was only 75% of the time
+- Recall score of 68% means your model only detects 68% of the digits (images, clothes, faces, whatever you're classifing) that you selected
+```
+from sklearn.metrics import precision_score, recall_score
+
+precision_score(y_train_5, y_train_pred)
+recall_score(y_train_5, y_train_pred)
+```
+- He briefingly mentions F1 scores. I'm not going to cover it here. 
 
   **Precision/Recall Trade-off**
+
+- Increasing precision reduces recall & increasing recall reduces precision. You can't have it both ways.
 
   **The ROC Curve**
 
