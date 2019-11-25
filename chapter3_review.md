@@ -2,12 +2,12 @@
 
 **SUMMARY**: This chapter focuses on **classification systems** and how to **evaluate them**. One common way to evaluate a classification system is to use a confusion matrix. Another method is the precsion score, the recall score, understanding the precision/recall tradeoff, and the ROC Curve. The author does this for binary classifiers and then multiclass classifications.
 
-1. MNIST 
+## **1. MNIST**
 - Use the built in dataset and choose one digit for the binary classification example
 - Display the image
 - Create a "train" and "test" set before inspecting any data. Put the "test" data aside until the very end.
 
-2. Training a Binary Classifier
+## **2. Training a Binary Classifier**
 - The first model he covers in this chapter is the Stochastic Gradient Descent. For a review, check the Maths section below.
 - We put one image in the y_train_5 variable
 - Become familiar with this structure:
@@ -23,7 +23,7 @@ sgd_clf.fit(X_train, y_train_5)
 # This takes the first 
 sgd_clf.predict([take a digit from the set and create a variable to test])
 ```
-3. Performance Measures
+## **3. Performance Measures**
   **Measuring Accuracy Using Cross-Validation**
 "A good way to evaluate a model is to use cross-validation." There is a long way, which definitely serves its purpose, and a short way.
 Let's explore the short way:
@@ -95,15 +95,15 @@ fpr_forest, tpr_forest, thresholds_forest = roc_curve(y_train_5, y_scores_forest
 roc_auc_score(y_train_5, y_scores_forest)
 ```
 
-4. Multiclass Classification
+## **4. Multiclass Classification**
 
-5. Error Analysis
+## **5. Error Analysis**
 
-6. Multilabel Classification
+## **6. Multilabel Classification**
 
-7. Multioutput Classification
+## **7. Multioutput Classification**
 
-8. Exercises
+## **8. Exercises**
 
 ___
 
