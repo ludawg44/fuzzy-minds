@@ -53,6 +53,7 @@ Organized links that have been shared with the group on Slack
 
 ## Tools
 - [Explained Visually](http://setosa.io/ev/)
+- [TensorFlow](https://dzone.com/articles/tensorflow-tutorials?edition=542293&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-11-20)
 
 ## Presentations
 - [Better than Deep Learning: Gradient Boosting Machines (GBM)](https://www.youtube.com/watch?v=9GCEVv94udY) - For structured/tabular data (mostly encountered in business applications) GBMs will beat Deep Learning. If you have image, speech, text, than Deep Learning is best. 
