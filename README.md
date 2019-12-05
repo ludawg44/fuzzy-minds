@@ -9,9 +9,9 @@
 * Meeting Minutes
 * Contributing
 * Contact
-* Acknowledgements
+* Acknowledgements (#acknowledgements)
 
-## About The Group
+## About The Group 
 
 Welcome to the Github repository for Fuzzy Minds, a group devoted to the pursuit and understanding of Deep Learning. Our mission is to give our fellow and future cohorts an opportunity to learn from our experiences and further refine in perpetuity. 
 
@@ -80,12 +80,12 @@ Deep Learning is one of the most highly sought after skills in AI. In this cours
 |          | Week 2 | Review chapters 4 - 6 |
 |          | Week 2 | Review chapters 7 - 9 |
 
-Meeting Minutes
------
+## Meeting Minutes
+
 1. [October 19, 2019](01_Unit-01_19Oct19.pdf)
 
-Contributing
------
+## Contributing
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. 
 
 1. Fork the Project
@@ -94,11 +94,11 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-Contacts
+## Contacts
 -----
 [Luis Vera](luis.vera@mail.analytics.hbs.edu)
 
 
-Acknowledgements
+# Acknowledgements
 -----
 Thank you [Priya Iragavarapu](https://www.linkedin.com/in/priya-iragavarapu-8a2686173/) for being our fearless leader! :+1:
