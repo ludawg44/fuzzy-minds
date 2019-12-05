@@ -1,29 +1,29 @@
 # Table of Contents
 
-* About the Group
-* Getting Started
+* [About the Group](#about-the-group)
+* [Getting Started](#getting-started)
   * Meetings
   * Books
   * Online Course
-* Roadmap
-* Meeting Minutes
-* Contributing
-* Contact
-* (#acknowledgements)
+* [Roadmap](#roadmap)
+* [Meeting Minutes](#meeting-minutes)
+* [Contributing](#contributing)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
-## About The Group 
+# About The Group 
 
 Welcome to the Github repository for Fuzzy Minds, a group devoted to the pursuit and understanding of Deep Learning. Our mission is to give our fellow and future cohorts an opportunity to learn from our experiences and further refine in perpetuity. 
 
 Consider this a live repo, one that will be constantly updated for future learners. 
 
-## Getting Started
+# Getting Started
 
 To accomodate the transition of new cohorts into the program, we're establishing weekly and monthly meetings to share our knowledge and lessons learned from the book, online materials, and each other. Links to the book and the course are online. 
 
 Also check out our [one-stop shop](https://github.com/ludawg44/fuzzy-minds/blob/master/One-stop%20Shop.md) containing more information on AI/ML/Deep Learning. 
 
-## Meetings
+# Meetings
 
 Proposed: 
 * One weekly non-mandatory 30 meeting on Zoom
@@ -31,7 +31,7 @@ Proposed:
 
 *Google calendar invite pending*
 
-## Book
+# Book
 
 ![alt text](https://www.oreilly.com/library/cover/9781492032632/360h/)
 
@@ -54,7 +54,7 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 
 Changes made to the [second edition](https://github.com/ageron/handson-ml2/blob/master/changes_in_2nd_edition.md). 
 
-## Online Course
+# Online Course
 
 ![alt text](https://cs.stanford.edu/sites/all/themes/stanford_wilbur/logo.png)
 
@@ -62,7 +62,7 @@ Changes made to the [second edition](https://github.com/ageron/handson-ml2/blob/
 
 Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
 
-## Roadmap
+# Roadmap
 
 | Month     | Week      | Work           | 
 | :---:     | :---:     | -------------    |
@@ -80,11 +80,11 @@ Deep Learning is one of the most highly sought after skills in AI. In this cours
 |          | Week 2 | Review chapters 4 - 6 |
 |          | Week 2 | Review chapters 7 - 9 |
 
-## Meeting Minutes
+# Meeting Minutes
 
 1. [October 19, 2019](01_Unit-01_19Oct19.pdf)
 
-## Contributing
+# Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. 
 
@@ -94,7 +94,7 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-## Contacts
+# Contacts
 
 [Luis Vera](luis.vera@mail.analytics.hbs.edu)
 
