@@ -1,4 +1,4 @@
-# Chapter 4 Training Models Review
+# Chapter 4 Training Models
 
 There's a lot of math concepts in this chapter, specifically in Linear Algebra. Review this [linear algebra](https://github.com/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb) repo Aurelien Geron created on GitHub.
 
@@ -49,7 +49,11 @@ Key vocabulary:
 
 
 Key vocabulary: 
-- 
+- partial derivative 
+- partial derivatives of the cost function
+- gradient vector of the cost function
+- batch gradient descent
+- tolerance 
 
 ### Stochastic Gradient Descent
 
