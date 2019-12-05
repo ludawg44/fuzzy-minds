@@ -9,7 +9,7 @@
 * Meeting Minutes
 * Contributing
 * Contact
-* Acknowledgements (#acknowledgements)
+* (#acknowledgements)
 
 ## About The Group 
 
@@ -95,10 +95,10 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 ## Contacts
------
+
 [Luis Vera](luis.vera@mail.analytics.hbs.edu)
 
 
 # Acknowledgements
------
+
 Thank you [Priya Iragavarapu](https://www.linkedin.com/in/priya-iragavarapu-8a2686173/) for being our fearless leader! :+1:
