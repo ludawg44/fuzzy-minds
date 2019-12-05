@@ -4,13 +4,52 @@ There's a lot of math concepts in this chapter, specifically in Linear Algebra. 
 
 ## Linear Regression
 
+This quick section goes over a linear regression model. You haven't trained anything yet. 
+
+Key vocabulary: 
+- bias term (intercept term)
+- parameter vector
+- feature vector
+- column vectors
+- Root Means Square Error (RMSE)
+
 ### The Normal Equation
+
+Review the Normal Equalation. Review "from sklearn.linear_model import LinearRegression"
+
+Key vocabulary: 
+- Normal Equation
+- closed-form solution
+- pseudoinverse
+- Singular Value Decomposition (SVD)
 
 ### Computational Complexity
 
+Regarding the Linear Regression model, the computational complexity is linear with regard to both the number of instances you want to make predictions on and the number of features. 
+
+Key vocabulary: 
+- computational complexity
+
 ## Gradient Descent
 
+A lot of great images that explain the concepts. 
+
+Key vocabulary: 
+- gradient descent
+- random initialization
+- converges
+- learning rate
+- local minimum 
+- global minimum
+- convex function
+- parameter space
+
 ### Batch Gardient Descent
+
+
+
+Key vocabulary: 
+- 
 
 ### Stochastic Gradient Descent
 
