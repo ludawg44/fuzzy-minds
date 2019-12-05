@@ -2,9 +2,9 @@
 
 * [About the Group](#about-the-group)
 * [Getting Started](#getting-started)
-  * Meetings
-  * Books
-  * Online Course
+  * [Meetings](#meetings)
+  * [Book](#book)
+  * [Online Course](#online-course)
 * [Roadmap](#roadmap)
 * [Meeting Minutes](#meeting-minutes)
 * [Contributing](#contributing)
