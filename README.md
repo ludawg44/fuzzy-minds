@@ -1,5 +1,5 @@
-Table of Contents
-======
+# Table of Contents
+
 * About the Group
 * Getting Started
   * Meetings
@@ -11,28 +11,28 @@ Table of Contents
 * Contact
 * Acknowledgements
 
-About The Group
------
+## About The Group
+
 Welcome to the Github repository for Fuzzy Minds, a group devoted to the pursuit and understanding of Deep Learning. Our mission is to give our fellow and future cohorts an opportunity to learn from our experiences and further refine in perpetuity. 
 
 Consider this a live repo, one that will be constantly updated for future learners. 
 
-Getting Started
------
+## Getting Started
+
 To accomodate the transition of new cohorts into the program, we're establishing weekly and monthly meetings to share our knowledge and lessons learned from the book, online materials, and each other. Links to the book and the course are online. 
 
 Also check out our [one-stop shop](https://github.com/ludawg44/fuzzy-minds/blob/master/One-stop%20Shop.md) containing more information on AI/ML/Deep Learning. 
 
-Meetings
------
+## Meetings
+
 Proposed: 
 * One weekly non-mandatory 30 meeting on Zoom
 * One monthly mandatory 2 on Zoom
 
 *Google calendar invite pending*
 
-Book
------
+## Book
+
 ![alt text](https://www.oreilly.com/library/cover/9781492032632/360h/)
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_1/144-7972152-8579053?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=d4be4346-d342-4c7a-b795-ee61c9cee4e0&pd_rd_w=g7pgm&pd_rd_wg=vnLSI&pf_rd_p=52b7592c-2dc9-4ac6-84d4-4bda6360045e&pf_rd_r=K67744CZYPRQRZMAB9N4&psc=1&refRID=K67744CZYPRQRZMAB9N4)
@@ -48,26 +48,37 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 - Dive into neural net architectures, including convolutional nets, recurrent nets, and deep reinforcement learning
 - Learn techniques for training and scaling deep neural nets
 
+[Chapter 3 review](chapter3_review.md)
+
+[Chapter 4 review](chapter4_review.md)
+
 Changes made to the [second edition](https://github.com/ageron/handson-ml2/blob/master/changes_in_2nd_edition.md). 
 
-Online Course
------
+## Online Course
+
 ![alt text](https://cs.stanford.edu/sites/all/themes/stanford_wilbur/logo.png)
 
 [CS230 Deep Learning](https://cs230.stanford.edu/)
 
 Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
 
-Roadmap
------
+## Roadmap
 
 | Month     | Week      | Work           | 
 | :---:     | :---:     | -------------    |
 | Month 1   | Week 1    | [YouTube video 1](https://www.youtube.com/watch?v=aircAruvnKk) & [YouTube video 2](https://www.youtube.com/watch?v=6M5VXKLf4D4) |
-|    | Week 2    | Chapter 1 from “Hands-On Machine Learning with Scikit-Learn & TensorFlow” (Please do the exercises mentioned at the end of the Chapter too) |
-|   | Week 3 & 4    | Chapter 2 from “Hands-On Machine Learning with Scikit-Learn & TensorFlow” (Please do the exercises mentioned at the end of the Chapter too) |
-
-
+|    | Week 2    | Chapter 1  |
+|   | Week 3 & 4    | Chapter 2  |
+| Month 2  | Week 1 & 2 | Chapter 3 |
+|          | Week 3 | Chapter 4 |
+|          | Week 4 | Chapter 5 |
+| Month 3  | Week 1 | Chapter 6 |
+|          | Week 2 | Chapter 7 |
+|          | Week 3 | Chapter 8 |
+|          | Week 4 | Chapter 9 |
+| Month 4  | Week 1 | Review chapters 1 - 3 |
+|          | Week 2 | Review chapters 4 - 6 |
+|          | Week 2 | Review chapters 7 - 9 |
 
 Meeting Minutes
 -----
