@@ -57,11 +57,32 @@ Key vocabulary:
 
 ### Stochastic Gradient Descent
 
+
+
+Key vocabulary: 
+- Stochastic Gradient Descent
+- simulated annealing
+- learning schedule
+- epoch
+
 ### Mini-batch Gradient Descent
+
+
+Key vocabulary: 
+- mini-batch gradient descent
+- mini-batches
 
 ## Polynomial Regression
 
+
+Key vocabulary: 
+- polynomial regression
+
 ## Learning Curves
+
+Key vocabulary: 
+- learning curves
+- the bias/variance trade-off
 
 ## Regularized linear Models
 
