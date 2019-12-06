@@ -13,7 +13,7 @@
 
 # About The Group 
 
-Welcome to the Github repository for Fuzzy Minds, a group devoted to the pursuit and understanding of Deep Learning. Our mission is to give our fellow and future cohorts an opportunity to learn from our experiences and further refine in perpetuity. 
+Welcome to the GitHub repository for Fuzzy Minds, a group devoted to the pursuit and understanding of Deep Learning. Our mission is to give our fellow and future cohorts an opportunity to learn from our experiences and further refine in perpetuity. 
 
 Consider this a live repo, one that will be constantly updated for future learners. 
 
@@ -25,11 +25,13 @@ Also check out our [one-stop shop](https://github.com/ludawg44/fuzzy-minds/blob/
 
 # Meetings
 
-Proposed: 
-* One weekly non-mandatory 30 meeting on Zoom
-* One monthly mandatory 2 on Zoom
+Each session will compromise of a quick review of the book material, the exercises and an open ended discussion. Here is the following suggested format: 
 
-*Google calendar invite pending*
+- Review ground rules (1 minute)
+- Q&As from the prior chapter (10 minutes)
+- Chapter material review (30 minutes)
+- Chapter exercise discussion (30 minutes)
+- Open ended discussion 
 
 # Book
 
@@ -64,21 +66,21 @@ Deep Learning is one of the most highly sought after skills in AI. In this cours
 
 # Roadmap
 
-| Month     | Week      | Work           | 
-| :---:     | :---:     | -------------    |
-| Month 1   | Week 1    | [YouTube video 1](https://www.youtube.com/watch?v=aircAruvnKk) & [YouTube video 2](https://www.youtube.com/watch?v=6M5VXKLf4D4) |
-|    | Week 2    | Chapter 1  |
-|   | Week 3 & 4    | Chapter 2  |
+| Month    | Week       | Work           | 
+| :---:    | :---:      | -------------    |
+| Month 1  | Week 1     | Group introductions |
+|          | Week 2     | Chapter 1 |
+|          | Week 3 & 4 | Chapter 2 |
 | Month 2  | Week 1 & 2 | Chapter 3 |
-|          | Week 3 | Chapter 4 |
-|          | Week 4 | Chapter 5 |
-| Month 3  | Week 1 | Chapter 6 |
-|          | Week 2 | Chapter 7 |
-|          | Week 3 | Chapter 8 |
-|          | Week 4 | Chapter 9 |
-| Month 4  | Week 1 | Review chapters 1 - 3 |
-|          | Week 2 | Review chapters 4 - 6 |
-|          | Week 2 | Review chapters 7 - 9 |
+|          | Week 3     | Chapter 4 |
+|          | Week 4     | Chapter 5 |
+| Month 3  | Week 1     | Chapter 6 |
+|          | Week 2     | Chapter 7 |
+|          | Week 3     | Chapter 8 |
+|          | Week 4     | Chapter 9 |
+| Month 4  | Week 1     | Review chapters 1 - 3 |
+|          | Week 2     | Review chapters 4 - 6 |
+|          | Week 3 & 4 | Review chapters 7 - 9 |
 
 # Meeting Minutes
 
@@ -94,7 +96,7 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-# Contacts
+# Contact
 
 [Luis Vera](luis.vera@mail.analytics.hbs.edu)
 
