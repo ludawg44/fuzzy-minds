@@ -77,6 +77,7 @@ Key vocabulary:
 ### Mini-batch Gradient Descent
 
 
+
 Key vocabulary: 
 - mini-batch gradient descent
 - mini-batches
@@ -84,10 +85,13 @@ Key vocabulary:
 ## Polynomial Regression
 
 
+
 Key vocabulary: 
 - polynomial regression
 
 ## Learning Curve
+
+
 
 Key vocabulary: 
 - learning curves
@@ -97,20 +101,87 @@ Key vocabulary:
 
 ### Ridge Regression
 
+
+
+Key vocabulary: 
+- ridge regression
+- regularization term
+- ridge regression cost function
+- identity matrix
+- ridge regression closed-form solution
+
 ### Lasso Regression
+
+
+
+Key vocabulary: 
+- least absolute shrinkage and selection operator regression <- just call is Lasso Regression
+- lasso regression cost function
+- sparse model
+- subgradient vector
 
 ### Elastic Net
 
+
+
+Key vocabulary: 
+- elastic net cost function
+
 ### Early Stopping
+
+
+
+Key vocabulary: 
+- early stopping
 
 ## Logistic Regression
 
+
+
+Key vocabulary: 
+- logistic regression & logit regression (same thing)
+- positive class
+- negative class
+
 ### Estimating Probabilities
+
+
+
+Key vocabulary: 
+- logistic
+- logistic regression model estimtated probability (vectorized form)
+- sigmoid function
+- logistic Regression model prediction
 
 ### Training and Cost Function
 
+
+
+Key vocabulary: 
+- cost function of a single training instance
+- log loss
+- logistic regression cost function (log loss)
+- logistic cost function partial derivatives
+
 ### Decision Boundaries
 
+
+
+Key vocabulary: 
+- decision boundary
+
 ### Softmax Regression
+
+
+
+Key vocabulary: 
+- softmax regression & multinomial logistic regression <- same thing
+- softmax function & normalized exponential <- same thing
+- softmax score for class k
+- softmax regression classifier prediction
+- cross entropy
+- cross entropy function
+- corss entropy gradient vector for class k
+
 
 ## Exercises 
