@@ -66,21 +66,21 @@ Deep Learning is one of the most highly sought after skills in AI. In this cours
 
 # Roadmap
 
-| Month    | Week       | Work           | 
-| :---:    | :---:      | -------------    |
-| Month 1  | Week 1     | Group introductions |
-|          | Week 2     | Chapter 1 |
-|          | Week 3 & 4 | Chapter 2 |
-| Month 2  | Week 1 & 2 | Chapter 3 |
-|          | Week 3     | Chapter 4 |
-|          | Week 4     | Chapter 5 |
-| Month 3  | Week 1     | Chapter 6 |
-|          | Week 2     | Chapter 7 |
-|          | Week 3     | Chapter 8 |
-|          | Week 4     | Chapter 9 |
-| Month 4  | Week 1     | Review chapters 1 - 3 |
-|          | Week 2     | Review chapters 4 - 6 |
-|          | Week 3 & 4 | Review chapters 7 - 9 |
+| Month    | Week       | Work                  | Dates          |
+| :---:    | :---:      | :-----------:         |:-----------:   |
+| Month 1  | Week 1     | Group introductions   |                |
+|          | Week 2     | Chapter 1             |                |
+|          | Week 3 & 4 | Chapter 2             |                |
+| Month 2  | Week 1 & 2 | Chapter 3             |                |
+|          | Week 3     | Chapter 4             | Dec 8          |
+|          | Week 4     | Chapter 5             | Dec 15         |
+| Month 3  | Week 1     | Chapter 6             | Dec 22         |
+|          | Week 2     | Chapter 7             | Jan 19         |
+|          | Week 3     | Chapter 8             | Jan 26         |
+|          | Week 4     | Chapter 9             | Feb 2          |
+| Month 4  | Week 1     | Review chapters 1 - 3 | Feb 9          |
+|          | Week 2     | Review chapters 4 - 6 | Feb 16         |
+|          | Week 3 & 4 | Review chapters 7 - 9 | Feb 23         |
 
 # Meeting Minutes
 
