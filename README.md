@@ -50,11 +50,13 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 - Dive into neural net architectures, including convolutional nets, recurrent nets, and deep reinforcement learning
 - Learn techniques for training and scaling deep neural nets
 
+Hands on Machine Learning's GitHub [repository](https://github.com/ageron/handson-ml2). 
+
 [Chapter 3 review](chapter3_review.md)
 
 [Chapter 4 review](chapter4_review.md)
 
-Changes made to the [second edition](https://github.com/ageron/handson-ml2/blob/master/changes_in_2nd_edition.md). 
+
 
 # Online Course
 
