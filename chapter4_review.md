@@ -1,5 +1,14 @@
 # Chapter 4 Training Models
 
+- [Linear Regerssion](#linear-regression)
+- [Gradient Descent](#gradient-descent)
+- [Polynomial Regression](#polynomial-regression)
+- [Learning Curve](#learning-curve)
+- [Regularized Linear Models](#regularized-linear-models)
+- [Logistic Regression](#logistic-regression)
+- [Exercises](#exercises)
+
+
 There's a lot of math concepts in this chapter, specifically in Linear Algebra. Review this [linear algebra](https://github.com/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb) repo Aurelien Geron created on GitHub.
 
 ## Linear Regression
@@ -78,7 +87,7 @@ Key vocabulary:
 Key vocabulary: 
 - polynomial regression
 
-## Learning Curves
+## Learning Curve
 
 Key vocabulary: 
 - learning curves
