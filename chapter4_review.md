@@ -6,7 +6,6 @@
 - [Learning Curve](#learning-curve)
 - [Regularized Linear Models](#regularized-linear-models)
 - [Logistic Regression](#logistic-regression)
-- [Exercises](#exercises)
 
 
 There's a lot of math concepts in this chapter, specifically in Linear Algebra. Review this [linear algebra](https://github.com/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb) repo Aurelien Geron created on GitHub.
@@ -184,4 +183,3 @@ Key vocabulary:
 - corss entropy gradient vector for class k
 
 
-## Exercises 
