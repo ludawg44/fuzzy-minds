@@ -56,7 +56,7 @@ Hands on Machine Learning's GitHub [repository](https://github.com/ageron/handso
 
 [Chapter 4 review](chapter4_review.md)
 
-
+[Chapter 5 review](chapter5_review.md)
 
 # Online Course
 
