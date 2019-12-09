@@ -107,6 +107,9 @@ roc_auc_score(y_train_5, y_scores_forest)
 
 ___
 
+### GROUP WORK:
+- Arnaud's Titanic project: [file 1](Titanic_2.ipynb) & [file 2](Titanic_Project.ipynb)
+
 ### **STATISTICS**: 
 - Classification Systems: (definition)
 - You want to think about classification systems in two ways: binary classification & multiclass classification
