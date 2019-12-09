@@ -52,7 +52,9 @@ Key vocabulary:
 
 ## Gradient Descent
 
-A lot of great images that explain the concepts. 
+The concept of a [gradient descent](https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/) is incredibly important. But like in most ML problems, there are always faster and less computationally wasteful algorithms. Gradient descent is no different. 
+
+This chapter mentions three modifications from the standard gradient descent: 1) batch gradient descent, stochastic gradient descent & mini-batch gradient descent. 
 
 Key vocabulary: 
 - gradient descent
@@ -74,6 +76,8 @@ Key vocabulary:
 - tolerance 
 
 ### Stochastic Gradient Descent
+
+The most important feature of SGD is that it "computes the gradient and updates the weight matrix W on small batches of training data, rather than the entire training set itself." [SGD with Python](https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/)
 
 Key vocabulary: 
 - Stochastic Gradient Descent
