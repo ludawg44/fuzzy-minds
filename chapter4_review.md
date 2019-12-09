@@ -54,8 +54,6 @@ Key vocabulary:
 
 ### Batch Gardient Descent
 
-
-
 Key vocabulary: 
 - partial derivative 
 - partial derivatives of the cost function
@@ -65,8 +63,6 @@ Key vocabulary:
 
 ### Stochastic Gradient Descent
 
-
-
 Key vocabulary: 
 - Stochastic Gradient Descent
 - simulated annealing
@@ -75,22 +71,16 @@ Key vocabulary:
 
 ### Mini-batch Gradient Descent
 
-
-
 Key vocabulary: 
 - mini-batch gradient descent
 - mini-batches
 
 ## Polynomial Regression
 
-
-
 Key vocabulary: 
 - polynomial regression
 
 ## Learning Curve
-
-
 
 Key vocabulary: 
 - learning curves
@@ -99,8 +89,6 @@ Key vocabulary:
 ## Regularized linear Models
 
 ### Ridge Regression
-
-
 
 Key vocabulary: 
 - ridge regression
@@ -111,8 +99,6 @@ Key vocabulary:
 
 ### Lasso Regression
 
-
-
 Key vocabulary: 
 - least absolute shrinkage and selection operator regression <- just call is Lasso Regression
 - lasso regression cost function
@@ -121,21 +107,15 @@ Key vocabulary:
 
 ### Elastic Net
 
-
-
 Key vocabulary: 
 - elastic net cost function
 
 ### Early Stopping
 
-
-
 Key vocabulary: 
 - early stopping
 
 ## Logistic Regression
-
-
 
 Key vocabulary: 
 - logistic regression & logit regression (same thing)
@@ -143,8 +123,6 @@ Key vocabulary:
 - negative class
 
 ### Estimating Probabilities
-
-
 
 Key vocabulary: 
 - logistic
@@ -154,8 +132,6 @@ Key vocabulary:
 
 ### Training and Cost Function
 
-
-
 Key vocabulary: 
 - cost function of a single training instance
 - log loss
@@ -164,14 +140,10 @@ Key vocabulary:
 
 ### Decision Boundaries
 
-
-
 Key vocabulary: 
 - decision boundary
 
 ### Softmax Regression
-
-
 
 Key vocabulary: 
 - softmax regression & multinomial logistic regression <- same thing
@@ -182,4 +154,34 @@ Key vocabulary:
 - cross entropy function
 - corss entropy gradient vector for class k
 
+___
 
+#### TABLED ITEMS
+- stochastic gradient descent, how random is it? 
+  - 
+- classification vs regression models/algorithms/logic debate
+  - [Difference between classifiaction and regression](https://techdifferences.com/difference-between-classification-and-regression.html)
+  - [Classification vs Regression](https://www.geeksforgeeks.org/ml-classification-vs-regression/) (refer to chart at the bottom)
+  - 
+- learning curve, what's the purpose?
+  - 
+- Andrew Ng's logistic regression
+  - [link 1](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) Luis
+  - [link 2](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) Junwei's 
+- Softmax, what is it and how are we going to use it? 
+  - 
+
+#### GROUP WORK
+- Pending
+
+#### STATISTICS
+
+#### PYTHON
+
+#### MATHS
+
+#### LINKS
+
+#### BLOGS
+
+#### DATASETS
