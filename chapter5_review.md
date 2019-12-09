@@ -50,7 +50,14 @@ Key vocabulary:
 
 ### Gaussian RBF Kernel
 
+Key vocabulary:
+- string kernels
+- Levenshtein distance
+
 ### Computational Complexity
+
+Key vocabulary:
+- sparse features: when each instance has few nonzero features
 
 ## SVM Regression
 
@@ -58,13 +65,50 @@ Key vocabulary:
 
 ### Decision Function and Predictions
 
+Key vocabulary:
+- Linear SVM classifier prediction 
+
 ### Training Objective
+
+Key vocabulary:
+- Hard margin linear SVM classifier objective
+- slack variable
+- soft margin linear SVM classifier objective
 
 ### Quadratic Programming
 
+Key vocabulary: 
+- Quadratic Programming problem
+
 ### The Dual Problem
+
+Key vocabulary:
+- primal problem
+- dual problem
+- Dual form of the linear SVM objective
+- From the dual solution to the primal solution
 
 ### Kernelized SVMs
 
+Key vocabulary:
+- second-degree polynomial mapping
+- Kernel trick for a second-degree polynomial mapping
+- Kernel
+- Common Kernels
+  - Linear
+  - Polynomial
+  - Gaussian RBF
+  - Sigmoid
+- Mercer's Theorem
+- Making predictions with a kernelized SVM
+- Using the kernel trick to compute the bias term
+
 ### Online SVMs
+
+Key vocabulary: 
+- Linear SVM classifier cost function
+- Hing Loss
+- subderivative
+
+
 
