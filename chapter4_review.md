@@ -175,7 +175,7 @@ ___
 - classification vs regression models/algorithms/logic debate
   - [Difference between classifiaction and regression](https://techdifferences.com/difference-between-classification-and-regression.html)
   - [Classification vs Regression](https://www.geeksforgeeks.org/ml-classification-vs-regression/) (refer to chart at the bottom)
-  - pending
+  - This [article](https://www.geeksforgeeks.org/understanding-logistic-regression/) explains what a logistic regression is. Just like a linear regression, logsitic regression is a linear model. "Logistic regression becomes a classification technique only when a decision threshold is brought into the picture. The setting of the threshold value is a very important aspect of Logistic regression and is dependent on the classification problem itself."
 - learning curve, what's the purpose?
   - pending
 - Andrew Ng's logistic regression
