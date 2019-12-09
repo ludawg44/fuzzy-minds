@@ -1,12 +1,24 @@
 # Chapter 4 Training Models
 
 - [Linear Regerssion](#linear-regression)
+  - [The Normal Equation](#the-normal-equation)
+  - [Computational Complexity](#computational-complexity)
 - [Gradient Descent](#gradient-descent)
+  - [Batch Gradient Descent](#batch-gradient-descent)
+  - [Stochastic Gradient Descent](#stochastic-gradient-descent)
+  - [Mini-batch Gradient Desecnt](#mini-batch-gradient-descent)
 - [Polynomial Regression](#polynomial-regression)
 - [Learning Curve](#learning-curve)
 - [Regularized Linear Models](#regularized-linear-models)
+  - [Ridge Regression](#ridge-regression)
+  - [Lasso Regression](#lasso-regression)
+  - [Elastic Net](#elastic-net)
+  - [Early Stopping](#early-stopping)
 - [Logistic Regression](#logistic-regression)
-
+  - [Estimating Probabilities](#estimating-probabilities)
+  - [Training and Cost Function](#training-and-cost-function)
+  - [Decision Boundaries](#decision-boundaries)
+  - [Softmax Regression](#softmax-regression)
 
 There's a lot of math concepts in this chapter, specifically in Linear Algebra. Review this [linear algebra](https://github.com/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb) repo Aurelien Geron created on GitHub.
 
@@ -52,7 +64,7 @@ Key vocabulary:
 - convex function
 - parameter space
 
-### Batch Gardient Descent
+### Batch Gradient Descent
 
 Key vocabulary: 
 - partial derivative 
@@ -157,31 +169,38 @@ Key vocabulary:
 ___
 
 #### TABLED ITEMS
+
 - stochastic gradient descent, how random is it? 
-  - 
+  - pending
 - classification vs regression models/algorithms/logic debate
   - [Difference between classifiaction and regression](https://techdifferences.com/difference-between-classification-and-regression.html)
   - [Classification vs Regression](https://www.geeksforgeeks.org/ml-classification-vs-regression/) (refer to chart at the bottom)
-  - 
+  - pending
 - learning curve, what's the purpose?
-  - 
+  - pending
 - Andrew Ng's logistic regression
   - [link 1](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) Luis
   - [link 2](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) Junwei's 
 - Softmax, what is it and how are we going to use it? 
-  - 
+  - pending
 
 #### GROUP WORK
 - Pending
 
 #### STATISTICS
+- Pending
 
 #### PYTHON
+- Pending
 
 #### MATHS
+- Pending
 
 #### LINKS
+- Pending
 
 #### BLOGS
+- Pending
 
 #### DATASETS
+- Pending
