@@ -19,8 +19,8 @@
 ## Linear SVM Classification
 
 Key vocabulary: 
-- support vector machine
-- linearly separable
+- [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine) (SVM)
+- [linearly separable](https://en.wikipedia.org/wiki/Linear_separability#)
 - large margin classification
 - support vectors
 
