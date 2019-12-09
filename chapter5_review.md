@@ -18,17 +18,39 @@
 
 ## Linear SVM Classification
 
+Key vocabulary: 
+- support vector machine
+- linearly separable
+- large margin classification
+- support vectors
+
 ### Soft Margin Classification
+
+Key vocabulary:
+- hard margin classification
+- margin violations
+- soft margin classification
+- hinge loss
 
 ## Nonlinear SVM Classification
 
+Python: SciKit-Learn's "Pipeline" & "PolynomialFeatures" from "sklearn.pipeline" & "sklearn.preprocessing" from chapter 4. 
+
 ### Polynomial Kernel
+
+Key vocabulary:
+- kernel trick: makes it possoible to get the same result as if you had added many polynomial features, even with very high-degree polynomials, without actually having to add them. 
 
 ### Similarity Features
 
+Key vocabulary:
+- similarity function
+- landmark
+- Radial Basis Function (RBF)
+
 ### Gaussian RBF Kernel
 
-### Computation Complexity
+### Computational Complexity
 
 ## SVM Regression
 
