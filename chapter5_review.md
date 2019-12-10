@@ -18,13 +18,17 @@
 
 ## Linear SVM Classification
 
+SVMs are sensitive to feature scales. There's an image that shows a really good example of unscaled and scaled features. In order to apply this in code, use Scikit-Learn's StandardScaler. 
+
 Key vocabulary: 
-- [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine) (SVM)
-- [linearly separable](https://en.wikipedia.org/wiki/Linear_separability#)
-- large margin classification
-- support vectors
+- [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine) (SVM): SVMs are powerful and versatile. They are capable of both classification and regression modeling. 
+- [linearly separable](https://en.wikipedia.org/wiki/Linear_separability#): when two classes can clearly be separated easily with a straight line. 
+- large margin classification: fits the widest possible lines across two classes. 
+- support vectors: fully determined by the instances located at the edge of the "street"
 
 ### Soft Margin Classification
+
+If your SVM model is overfitting, you can try to regularize it by lowering C. SVM classifiers do not output probabilities for each class. Don't forget to use the "loss = 'hing'" hyperparameter as this is not the default value. For better performance, set "dual=False" hyperparameter to False, unless there are more features than training instances. 
 
 Key vocabulary:
 - hard margin classification
