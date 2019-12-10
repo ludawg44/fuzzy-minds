@@ -42,15 +42,21 @@ Python: SciKit-Learn's "Pipeline" & "PolynomialFeatures" from "sklearn.pipeline"
 
 ### Polynomial Kernel
 
+A common method to finding the right hyperparameter is to use the grid search. 
+
+If your SVM model is overfitting = reduce polynomial degree. If your SM model is underfitting = increase polynomial degree.
+
 Key vocabulary:
-- kernel trick: makes it possoible to get the same result as if you had added many polynomial features, even with very high-degree polynomials, without actually having to add them. 
+- [kernel trick](https://en.wikipedia.org/wiki/Kernel_method): makes it possoible to get the same result as if you had added many polynomial features, even with very high-degree polynomials, without actually having to add them. 
 
 ### Similarity Features
 
+How do you select landmarks? The simplest approach is to create a landmark at the location of each and every instance in te dataset. Upside: increases the chances that the transformed training set will be linearly separable. Downside: a training set with m instances and n features gets transformed into a training set set with m instances and m featuers. If your training set gets large, you end up with equal large number of feautres.
+
 Key vocabulary:
-- similarity function
+- similarity function: measures how much each instance resembles a particular landmark
 - landmark
-- Radial Basis Function (RBF)
+- Gaussian Radial Basis Function (RBF)
 
 ### Gaussian RBF Kernel
 
@@ -59,6 +65,8 @@ Key vocabulary:
 - Levenshtein distance
 
 ### Computational Complexity
+
+
 
 Key vocabulary:
 - sparse features: when each instance has few nonzero features
