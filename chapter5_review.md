@@ -78,6 +78,13 @@ Key vocabulary:
 
 ## SVM Regression
 
+Quick recap: the SVM algorithm is incredibly versitile. It can support linear and nonlinear classification & support linear and nonlinear regression. Think of SVM regression as the opposite of what we have been doing, thus far, in this entire chapter.
+
+Before finding the SVM regression, the training data should be scaled and centered.
+
+Key vocabulary: 
+- epsilon insensitive: When adding more training instances within the margin does not affect the model's prediction. 
+
 ## Under the Hood
 
 ### Decision Function and Predictions
