@@ -34,7 +34,8 @@ Key vocabulary:
 - hard margin classification
 - margin violations
 - soft margin classification
-- hinge loss
+- [hinge loss](https://en.wikipedia.org/wiki/Hinge_loss)
+  - http://cs231n.github.io/linear-classify/
 
 ## Nonlinear SVM Classification
 
@@ -66,10 +67,14 @@ Key vocabulary:
 
 ### Computational Complexity
 
-
+| Class | Time complexity | Out-of-core-support | Scaling required | Kernel trick |
+| --- | --- | --- | --- | --- | 
+| Linear SVC | O(m x n) | No | Yes | No |
+| SGDClassifier | O(m x n) | Yes | Yes | No |
+| SVC | O(m^2 x n) to O(m^3 x n) | No | Yes | Yes |
 
 Key vocabulary:
-- sparse features: when each instance has few nonzero features
+- [sparse features](https://machinelearningmastery.com/sparse-matrices-for-machine-learning/): when each instance has few nonzero features
 
 ## SVM Regression
 
