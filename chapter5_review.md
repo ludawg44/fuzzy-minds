@@ -152,7 +152,7 @@ ___
 - Pending
 
 #### LINKS
-- Pending
+- I like [link](https://medium.com/@ankitnitjsr13/math-behind-support-vector-machine-svm-5e7376d0ee4d) from Medium that attempts to explain the math in simple terms. It covers the basic from a classification standpoint.
 
 #### BLOGS
 - Pending
