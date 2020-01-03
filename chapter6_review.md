@@ -1,5 +1,14 @@
 # Chapter 6 Decision Trees
 
+- [Training and Visualizing a Decision Tree](#training-and-visualizing-a-decision-tree)
+- [Making Predictions](#making-predictions)
+- [Estimating Class Probabilities](#estimating-class-probabilities)
+- [The CART Training Algorithm](#the-cart-training-algorithm)
+- [Computational Complexity](#computational-complexity)
+- [Gini Impurity or Entropy](#gini-impurity-or-entropy)
+- [Regularization Hyperparameters](#regularization-hyperparameters)
+- [Regression](#regression)
+- [Instability](#instability)
 
 
 ___
