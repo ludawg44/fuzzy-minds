@@ -5,11 +5,7 @@
   * [Meetings](#meetings)
   * [Book](#book)
   * [Online Course](#online-course)
-* [Roadmap](#roadmap)
-* [Meeting Minutes](#meeting-minutes)
-* [Contributing](#contributing)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 # About The Group 
 
@@ -68,43 +64,7 @@ Hands on Machine Learning's GitHub [repository](https://github.com/ageron/handso
 
 Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
 
-# Roadmap
-
-| Month    | Week       | Work                  | Dates          |
-| :---:    | :---:      | :-----------:         |:-----------:   |
-| Month 1  | Week 1     | Group introductions   |                |
-|          | Week 2     | Chapter 1             |                |
-|          | Week 3 & 4 | Chapter 2             |                |
-| Month 2  | Week 1 & 2 | Chapter 3             |                |
-|          | Week 3     | Chapter 4             | Dec 8          |
-|          | Week 4     | Chapter 5             | Dec 15         |
-| Month 3  | Week 1     | Chapter 6             | Dec 22         |
-|          | Week 2     | Chapter 7             | Jan 19         |
-|          | Week 3     | Chapter 8             | Jan 26         |
-|          | Week 4     | Chapter 9             | Feb 2          |
-| Month 4  | Week 1     | Review chapters 1 - 3 | Feb 9          |
-|          | Week 2     | Review chapters 4 - 6 | Feb 16         |
-|          | Week 3 & 4 | Review chapters 7 - 9 | Feb 23         |
-
-# Meeting Minutes
-
-1. [October 19, 2019](01_Unit-01_19Oct19.pdf)
-
-# Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. 
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
 
 # Contact
 
 [Luis Vera](luis.vera@mail.analytics.hbs.edu)
-
-
-# Acknowledgements
-
-Thank you [Priya Iragavarapu](https://www.linkedin.com/in/priya-iragavarapu-8a2686173/) for being our fearless leader! :+1:
