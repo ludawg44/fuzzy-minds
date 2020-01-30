@@ -2,7 +2,6 @@
 
 * [About the Group](#about-the-group)
 * [Getting Started](#getting-started)
-  * [Meetings](#meetings)
   * [Book](#book)
   * [Online Course](#online-course)
 * [Contact](#contact)
@@ -18,16 +17,6 @@ Consider this a live repo, one that will be constantly updated for future learne
 To accomodate the transition of new cohorts into the program, we're establishing weekly and monthly meetings to share our knowledge and lessons learned from the book, online materials, and each other. Links to the book and the course are online. 
 
 Also check out our [one-stop shop](https://github.com/ludawg44/fuzzy-minds/blob/master/One-stop%20Shop.md) containing more information on AI/ML/Deep Learning. 
-
-# Meetings
-
-Each session will compromise of a quick review of the book material, the exercises and an open ended discussion. Here is the following suggested format: 
-
-- Review ground rules (1 minute)
-- Q&As from the prior chapter (10 minutes)
-- Chapter material review (30 minutes)
-- Chapter exercise discussion (30 minutes)
-- Open ended discussion 
 
 # Book
 
