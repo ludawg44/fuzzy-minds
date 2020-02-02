@@ -10,7 +10,15 @@
 - [Regression](#regression)
 - [Instability](#instability)
 
+## Trainging and Visualizing a Decision Treee
 
+Key Vocabulary:
+- [decision trees](https://en.wikipedia.org/wiki/Decision_tree): 
+
+## Making Predictions
+
+Key Vocabulary: 
+- [root node](https://en.wikipedia.org/wiki/Tree_(data_structure)): 
 ___
 
 #### TABLED ITEMS
