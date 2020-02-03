@@ -47,6 +47,8 @@ Key Vocabulary:
 
 ## Computational Complexity
 
+Just know that Decision Trees have an overall complexity of O(log2(m)). You can slow it down by presorting the data in SciKit-Learn.
+
 ## Gini Impurity or Entropy?
 
 ## Regularization Hyperparameters
