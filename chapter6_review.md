@@ -51,6 +51,10 @@ Just know that Decision Trees have an overall complexity of O(log2(m)). You can 
 
 ## Gini Impurity or Entropy?
 
+"In ML, entropy is frequently used as an impurity measure: a set's entropy is zero when it contains instances of only one class." There is an equation. 
+
+So which one should you use? It really doesn't make a big differnece - they both lead to similiar trees. Gini is usually faster. Gini tends to isolate the most frequent class in its own branch of the tree, while entropy tends to produce slighty more balanced trees. 
+
 ## Regularization Hyperparameters
 
 ## Regression
