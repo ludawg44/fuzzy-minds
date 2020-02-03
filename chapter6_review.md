@@ -10,7 +10,7 @@
 - [Regression](#regression)
 - [Instability](#instability)
 
-## Trainging and Visualizing a Decision Treee
+## Training and Visualizing a Decision Tree
 
 Decision Trees are versatile ML algorithms that can perform both classification and regression tasks, and even multioutput taks. They're also fundamental components of Random Forests - another ML algorithm. 
 
@@ -33,6 +33,27 @@ Key Vocabulary:
 - [leaf node](https://en.wikipedia.org/wiki/Tree_(data_structure)#Terminology)
 - [impurity](https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_impurity)
 
+## Estimating Class Probabilities
+
+Just know that a decision tree can estimate the probability that an instance belongs to a particular class k. 
+
+## The CART Training Algorithm
+
+What you need to know is that the algorithm splits the training set into two subjsets using 1) a single feature & 2) a threshold. How to select a feature and threshold? You'll want to produce the purest subsets. It does this recursively and only stops when it hits the maximum depth. 
+
+Key Vocabulary:
+- [Classification and Regression Tree (CART)](https://en.wikipedia.org/wiki/Predictive_analytics#Classification_and_regression_trees_(CART))
+- [greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
+
+## Computational Complexity
+
+## Gini Impurity or Entropy?
+
+## Regularization Hyperparameters
+
+## Regression
+
+## Instability
 
 
 
