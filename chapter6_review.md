@@ -57,13 +57,15 @@ So which one should you use? It really doesn't make a big differnece - they both
 
 ## Regularization Hyperparameters
 
-To avoid overfitting the training data, you need to restric the Decision Tree's freedom during training - called regularization. In Scikit-Learn, this is controlled by the max_depth hyperparameter. 
+To avoid overfitting the training data, you need to restric the Decision Tree's freedom during training - called regularization. In Scikit-Learn, this is controlled by the "max_depth" hyperparameter. "min_samples_split", "min_samples_leaf", "min_weight_fraction_leaf", and "max_leaf_nodes" are all parameters found in the "DecisionTreeClassifier."
 
 Key Vocabulary:
 - [nonparametric model](https://en.wikipedia.org/wiki/Nonparametric_statistics): a unconstrained tree structure that adapts itself to the training model, most likely overfitting it. 
 - [parametric model](https://en.wikipedia.org/wiki/Parametric_model): more like a linear model, has predetermined number of parameters, so its degree of freedom is limited, reducing the risk of overfitting. 
 
 ## Regression
+
+Use the "DecisionTreeRegressor" to perform regression tasks in Decision Trees. Instead of a class in each node, it predicts a value. Just like a classification task, Decision trees are prone to overfitting when dealing with regressor tasks. To control this, you may want to try "min_samples_leaf" until the model looks more reasonable. 
 
 ## Instability
 
