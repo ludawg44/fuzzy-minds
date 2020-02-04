@@ -69,7 +69,9 @@ Use the "DecisionTreeRegressor" to perform regression tasks in Decision Trees. I
 
 ## Instability
 
+Decision Trees are easy to use, versatile, and powerful. BUT... they love orthogonal decision boundaries (all splits are perpendicular to an axis) which makes them sensitive to training set rotation. One way to limit this problem is to use Principal Component Analysis, which often results in a better orientation of the training data. 
 
+Decision Trees are very sensitive to small variations in the training data. 
 
 ___
 
