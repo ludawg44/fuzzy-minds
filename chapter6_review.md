@@ -61,7 +61,7 @@ To avoid overfitting the training data, you need to restric the Decision Tree's 
 
 Key Vocabulary:
 - [nonparametric model](https://en.wikipedia.org/wiki/Nonparametric_statistics): a unconstrained tree structure that adapts itself to the training model, most likely overfitting it. 
-- [parametric model]: more like a linear model, has predetermined number of parameters, so its degree of freedom is limited, reducing the risk of overfitting. 
+- [parametric model](https://en.wikipedia.org/wiki/Parametric_model): more like a linear model, has predetermined number of parameters, so its degree of freedom is limited, reducing the risk of overfitting. 
 
 ## Regression
 
