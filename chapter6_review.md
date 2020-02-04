@@ -57,6 +57,12 @@ So which one should you use? It really doesn't make a big differnece - they both
 
 ## Regularization Hyperparameters
 
+To avoid overfitting the training data, you need to restric the Decision Tree's freedom during training - called regularization. In Scikit-Learn, this is controlled by the max_depth hyperparameter. 
+
+Key Vocabulary:
+- [nonparametric model](https://en.wikipedia.org/wiki/Nonparametric_statistics): a unconstrained tree structure that adapts itself to the training model, most likely overfitting it. 
+- [parametric model]: more like a linear model, has predetermined number of parameters, so its degree of freedom is limited, reducing the risk of overfitting. 
+
 ## Regression
 
 ## Instability
