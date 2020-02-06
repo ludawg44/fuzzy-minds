@@ -13,6 +13,14 @@
 - [Gradient Boosting](#gradient-boosting)
 - [Stacking](#stacking)
 
+Key vocabulary:
+- ensemble: a group of dictors
+- [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning): In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. 
+- [Random Forest](https://en.wikipedia.org/wiki/Random_forest): an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees
+- bagging: 
+- boosting: 
+- stacking: 
+
 ## Voting Classifiers
 
 ## Bagging and Pasting
