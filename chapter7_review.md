@@ -41,6 +41,8 @@ Key vocabulary:
 
 ## Bagging and Pasting in Scikit-Learn
 
+Look at the book, there's a lot of code.
+
 ## Out-of-bag Evaluation
 
 ## Random Patches and Random Subspaces
