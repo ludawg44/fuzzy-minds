@@ -23,10 +23,12 @@ Key vocabulary:
 
 ## Voting Classifiers
 
+"Ensemble methods work best when the predictors are as independent from one another as possible. on eway to get diverse classifiers is to train them using very different algorithms. This increases the chance that they make different types of errors, improving the ensemble's accuracy."
+
 Key vocabulary:
-- hard voting:
-- weaker learner: 
-- strong learner: 
+- hard voting: a majority classifer
+- weaker learner: it does only slightly better than random guessing
+- strong learner: achieving high accuracy
 - law of large numbers: 
 - soft voting:
 
@@ -42,6 +44,17 @@ Key vocabulary:
 ## Bagging and Pasting in Scikit-Learn
 
 Look at the book, there's a lot of code.
+
+```
+from sklearn.ensblem import BaggingClassifier
+from sklearn.tree import DecisionTreeClassifier
+
+bag_clf = BaggingClassifier(
+  DecisionTreeClassifier(), n_estimators=500, max_samples=100, bootstrap=True, n_jobs=-1)
+  bag_clf.fit(X_train, y_train)
+  y_pred = bag_clf.predict(X_test)
+  
+```
 
 ## Out-of-bag Evaluation
 
