@@ -55,12 +55,24 @@ bag_clf = BaggingClassifier(
   y_pred = bag_clf.predict(X_test)
   
 ```
-
 ## Out-of-bag Evaluation
+
+Let me give this a shot: sometimes when you're bagging, you're only bagging a subset of the total dataset. For instance, you were bagging and pasting 67% of the total dataset. The remaining 37% of the training instances that weren't sampled are considered "out-of-bag" (oob) instances. I think you test the ensemble on this oob set and compare it to your bagging classifier accuracy. They should be close. 
 
 ## Random Patches and Random Subspaces
 
+I believe this technique works best with high-dimensional inputs (such as images). 
+
+Key vocabulary: 
+- random patches methods: 
+
 ## Random Forests
+
+Random Forest is an ensemble of Decision Trees. You can use the ```RandomForestClassifier``` class. 
+
+"The Random Forest algorithm introduces extra randomness when growing trees; instead of searching for the very best feature when splitting a node, it searches for the best feature among a random subset of features."
+
+As Random Forest algorithm increases in diversity -> so does the higher bias for a lower variance
 
 ## Extra Trees
 
@@ -73,3 +85,6 @@ bag_clf = BaggingClassifier(
 ## Gradient Boosting
 
 ## Stacking 
+
+Links: 
+- https://towardsdatascience.com/overview-ensemble-learning-made-simple-d4ac0d13cb96
