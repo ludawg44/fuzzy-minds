@@ -86,5 +86,28 @@ As Random Forest algorithm increases in diversity -> so does the higher bias for
 
 ## Stacking 
 
-Links: 
+___
+
+#### TABLED ITEMS
+- Pending
+
+#### GROUP WORK
+- Pending
+
+#### STATISTICS
+- Pending
+
+#### PYTHON
+- Pending
+
+#### MATHS
+- Pending
+
+#### LINKS
 - https://towardsdatascience.com/overview-ensemble-learning-made-simple-d4ac0d13cb96
+
+#### BLOGS
+- Pending
+
+#### DATASETS
+- Pending
