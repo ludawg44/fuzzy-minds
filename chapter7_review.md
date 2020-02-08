@@ -76,9 +76,19 @@ As Random Forest algorithm increases in diversity -> so does the higher bias for
 
 ## Extra Trees
 
+"When you are growing a tree in a Random Forest, at each node only a random subset of the features is considered for splitting. It is possible to amke trees even more random by also using random thresholds fore ach feature rather thean searching for the best possible thresholds (like Decision Trees do)."
+
+Extra trees is short for Extremely Randomized Trees ensblem. Again, you trade more bias for a lower variance. 
+
+It is hard to tell whether the ```RandomForestClassifier``` is fast than the ```ExtraTreesClassifier```. You have to try both. 
+
 ## Feature Importance
 
+"Random Forests are very handy to get a quick understanding of what features actually matter, in particular if you need to perform feature selection."
+
 ## Boosting
+
+
 
 ## AdaBoost
 
