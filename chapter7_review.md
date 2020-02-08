@@ -88,6 +88,10 @@ It is hard to tell whether the ```RandomForestClassifier``` is fast than the ```
 
 ## Boosting
 
+"The general idea of most boosting methods is to train predictors sequentially, each trying to correct its predecessor."
+
+The most popular boosting methods are AdaBoost adn Gradient Boosting. 
+
 Key Vocabulary:
 - [boosting or hypothesis boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning)): refers to any Ensemble method that can combine several weak learners into a strong learner. 
 
