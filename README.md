@@ -51,6 +51,8 @@ Hands on Machine Learning's GitHub [repository](https://github.com/ageron/handso
 
 [Chapter 9 review](chapter9_review.md)
 
+[Chapter 10 review](chapter10_review.md)
+
 # Online Course
 
 ![alt text](https://cs.stanford.edu/sites/all/themes/stanford_wilbur/logo.png)
