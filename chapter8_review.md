@@ -6,6 +6,11 @@
 - [Manifold Learning](#manifold-learning)
 - [PCA](#PCA)
 - [Preserving the Varience](#preserving-the-varience)
+- [Principal Components](#principal-components)
+- [Projecting Down to d Dimensions](#projecting-down-to-d-dimensional)
+- [Using Scikit-Learn](#using-scikit-learn)
+- [Explained Varience Ratio](#explained-varience-ratio)
+- [Choosing the Right Number of Dimensions](#choosing-the-right-number-of-dimensions)
 
 # The Curse of Dimensionality
 
@@ -16,6 +21,32 @@
 # Manifold Learning
 
 # PCA
+
+# Preserving the Varience
+
+# Principal Components
+
+# Projecting Down to d Dimension
+
+# Using Scikit-Learn
+
+# Explained Variance Ratio
+
+# Choosing the Right Number of Dimensions
+
+# PCA for Compression
+
+# Randomized PCA
+
+# Incremental PCA
+
+# Kernel PCA
+
+# Selecting a Kernel and Tuning Hyperparameters
+
+# LLE
+
+# Other Dimensionality Reduction Techniques
 
 
 ___
