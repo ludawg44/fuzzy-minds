@@ -1,8 +1,8 @@
 # Unsupervised Learning Techniques
 
 - [Clustering](#clustering)
-- [K-Means]
-- [Limits of K-Means]
+- [K-Means](#k-means)
+- [Limits of K-Means](
 - [Using Clustering for Image Segmentation]
 - [Using Clustering for Preprocessing]
 - [Using Clustering for Semi-Supervised Learning]
@@ -11,11 +11,22 @@
 - [Gaussian Mixtures]
 - [Anomaly Mixtures]
 - [Selecting the Number of Clusters]
-- [Bayesian Gaussian mixture Models]
+- [Bayesian Gaussian Mixture Models]
 - [Other Algorithms for Anomaly and Novelty Detection]
 
 ## Clustering
 ## K-Means
+## Limits of K-Means
+## Using Clustering for Image Segmentation
+## Using Clustering for Preprocessing
+## Using Clustering for Semi-Supervised Learning
+## DBSCAN
+## Other Clustering Algorithms
+## Gaussian Mixtures
+## Anomaly Mixtures
+## Selecting the Number of Clusters
+## Bayesian Gaussian Mixture Models
+## Other Algorithms for Anomaly and Novelty Detection
 
 ___
 
