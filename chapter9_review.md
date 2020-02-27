@@ -5,14 +5,14 @@
 - [Limits of K-Means](#limits-of-k-means)
 - [Using Clustering for Image Segmentation](#using-clustering-for-image-segmentation)
 - [Using Clustering for Preprocessing](#using-clustering-for-preprocessing)
-- [Using Clustering for Semi-Supervised Learning](#using clustering for semi-supervised-learning)
+- [Using Clustering for Semi-Supervised Learning](#using-clustering-for-semi-supervised-learning)
 - [DBSCAN](#dbscan)
-- [Other Clustering Algorithms]
-- [Gaussian Mixtures]
-- [Anomaly Mixtures]
-- [Selecting the Number of Clusters]
-- [Bayesian Gaussian Mixture Models]
-- [Other Algorithms for Anomaly and Novelty Detection]
+- [Other Clustering Algorithms](#other-clustering-algorithms)
+- [Gaussian Mixtures](#gaussian-mixtures)
+- [Anomaly Mixtures](#anomaly-mixtures)
+- [Selecting the Number of Clusters](#selecting-the-number-of-clusters)
+- [Bayesian Gaussian Mixture Models](#bayesian-gaussian-mixture-models)
+- [Other Algorithms for Anomaly and Novelty Detection](#other-algorithms-for-anomaly-and-novelty-detection)
 
 ## Clustering
 ## K-Means
