@@ -4,6 +4,9 @@
 - [K-Means]
 - [Limits of K-Means]
 - [Using Clustering for Image Segmentation]
+- [Using Clustering for Preprocessing]
+- [Using Clustering for Semi-Supervised Learning]
+- [DBSCAN]
 
 ## Clustering
 
