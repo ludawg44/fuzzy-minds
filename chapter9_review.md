@@ -1,6 +1,11 @@
 # Unsupervised Learning Techniques
 
+- [Clustering](#clustering)
+- [K-Means]
+- [Limits of K-Means]
+- [Using Clustering for Image Segmentation]
 
+## Clustering
 
 ___
 
