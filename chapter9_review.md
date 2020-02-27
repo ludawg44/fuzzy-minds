@@ -7,8 +7,15 @@
 - [Using Clustering for Preprocessing]
 - [Using Clustering for Semi-Supervised Learning]
 - [DBSCAN]
+- [Other Clustering Algorithms]
+- [Gaussian Mixtures]
+- [Anomaly Mixtures]
+- [Selecting the Number of Clusters]
+- [Bayesian Gaussian mixture Models]
+- [Other Algorithms for Anomaly and Novelty Detection]
 
 ## Clustering
+## K-Means
 
 ___
 
