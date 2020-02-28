@@ -20,13 +20,17 @@
 - 2 main approaches to reducgin dimensionality: projection & manifold learning
 
 ### Projection
-
+- 
 
 ### Manifold Learning
+- manifold
+- manifold hypothesis
+- 
 
 ## PCA
+- Principal Component Analysis (PCA) is by far the most popular dimensionality reduction algorithm. 
 
-## Preserving the Varience
+### Preserving the Varience
 
 ## Principal Components
 
