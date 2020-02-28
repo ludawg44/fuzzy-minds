@@ -12,19 +12,21 @@
 - [Explained Varience Ratio](#explained-varience-ratio)
 - [Choosing the Right Number of Dimensions](#choosing-the-right-number-of-dimensions)
 
-# The Curse of Dimensionality
+## The Curse of Dimensionality
+- Point, segment, square, cube, and tesseract (0D to 4D hypercubes)
+- The more dimensions the training set has, the greater the risk of overfitting it.
 
-# Main Approaches for Dimensinoality Reduction
+## Main Approaches for Dimensinoality Reduction
 
-# Projection
+### Projection
 
-# Manifold Learning
+### Manifold Learning
 
-# PCA
+## PCA
 
-# Preserving the Varience
+## Preserving the Varience
 
-# Principal Components
+## Principal Components
 
 # Projecting Down to d Dimension
 
