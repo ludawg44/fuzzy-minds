@@ -17,8 +17,10 @@
 - The more dimensions the training set has, the greater the risk of overfitting it.
 
 ## Main Approaches for Dimensinoality Reduction
+- 2 main approaches to reducgin dimensionality: projection & manifold learning
 
 ### Projection
+
 
 ### Manifold Learning
 
