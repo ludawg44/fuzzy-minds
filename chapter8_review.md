@@ -25,10 +25,10 @@
 ### Manifold Learning
 - manifold
 - manifold hypothesis
-- 
 
 ## PCA
 - Principal Component Analysis (PCA) is by far the most popular dimensionality reduction algorithm. 
+- [PCA](#https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 ### Preserving the Varience
 
