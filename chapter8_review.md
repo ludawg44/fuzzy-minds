@@ -28,13 +28,19 @@
 
 ## PCA
 - Principal Component Analysis (PCA) is by far the most popular dimensionality reduction algorithm. 
-- [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)
+- [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 ### Preserving the Varience
+- "Before you can project the training set onto a lower-dimensional hyperplane, you first need to choose the right hyperplane. 
 
 ## Principal Components
+- [Single Value Decomposition (SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition)
+- Principal components matrix equation
+- You're going to use NumPy's svd() function
 
 # Projecting Down to d Dimension
+1) Identify all the principal components
+2) Reduce the dimensionality of the dataset down to d dimensions by projecting it onto the hyperplane defined by the first d principal components. 
 
 # Using Scikit-Learn
 
