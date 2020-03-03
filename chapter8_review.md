@@ -15,6 +15,7 @@
 ## The Curse of Dimensionality
 - Point, segment, square, cube, and tesseract (0D to 4D hypercubes)
 - The more dimensions the training set has, the greater the risk of overfitting it.
+- [Wikipedia](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
 ## Main Approaches for Dimensinoality Reduction
 - 2 main approaches to reducgin dimensionality: projection & manifold learning
