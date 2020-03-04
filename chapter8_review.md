@@ -57,6 +57,8 @@ X2D = pca.fit_transform(x)
 # Choosing the Right Number of Dimensions
 
 # PCA for Compression
+- reconstruction error
+- EQUATION: PCA inverse transformation, back to the original number of dimensions
 
 # Randomized PCA
 
