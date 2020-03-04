@@ -52,8 +52,7 @@ pca = PCA(n_components = 2)
 X2D = pca.fit_transform(x)
 
 # Explained Variance Ratio
-
-
+- [explained variance ratio](https://ro-che.info/articles/2017-12-11-pca-explained-variance)
 
 # Choosing the Right Number of Dimensions
 
