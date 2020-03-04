@@ -44,8 +44,16 @@
 2) Reduce the dimensionality of the dataset down to d dimensions by projecting it onto the hyperplane defined by the first d principal components. 
 
 # Using Scikit-Learn
+- You're going to use Scikit-Learn's PCA class, that uses SVD decomposition to implement PCA. Here is an example: 
+
+from sklearn.decomposition import PCA
+
+pca = PCA(n_components = 2)
+X2D = pca.fit_transform(x)
 
 # Explained Variance Ratio
+
+
 
 # Choosing the Right Number of Dimensions
 
