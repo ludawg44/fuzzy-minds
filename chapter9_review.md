@@ -16,6 +16,8 @@
 
 ## Clustering
 ## K-Means
+- [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+
 ## Limits of K-Means
 ## Using Clustering for Image Segmentation
 ## Using Clustering for Preprocessing
